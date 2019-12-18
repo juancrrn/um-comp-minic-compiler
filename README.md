@@ -6,9 +6,9 @@ Compiladores
 Grado en Ingeniería Informática  
 Universidad de Murcia
 
-Por: Juan Francisco Carrión Molina y Eloy Abellán Mayor
+Por: Juan Francisco Carrión Molina
 
-Profesores: Eduardo Martínez Gracia
+Profesor: Eduardo Martínez Gracia
 
 ## Memoria de las prácticas
 
